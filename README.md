@@ -1,6 +1,7 @@
 # biblioteca-digital2
 problema: Organização dos livros
 soliução: Fazer um banco de dados no "planilhas" e organizar eles em uma ordem de generos e em ordem alfabetica, qundo o aluno x for pegar é so falar o genero e nome
+
 problema: Data de entrega
 solução: nessa mesma planilha, as funcionarias poderiam digitar o dia em que o livro foi emprestado e o dia da devoluçã, fazendo iso, ficaria mais facil à devolução
 ela vai criar um banco de dados
